@@ -8,7 +8,7 @@
 
 This project is a part of the Smart India Hackathon, an initiative to promote innovation and problem-solving through technology. **Wanderlust** is designed to foster connections, provide assistance, and enhance travel planning for a smarter and more connected India.
 
-#SIH2023 #SmartIndiaHackathon2023
+
 
 ## Features
 
