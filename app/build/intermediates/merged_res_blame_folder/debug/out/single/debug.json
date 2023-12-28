@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_rounded_corner_left.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/rounded_corner_left.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_7.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_7.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_images.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_images.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_home_page_button_background.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/home_page_button_background.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_bot_chat.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_bot_chat.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_baseline_camera_alt_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_bot.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/bot.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_karnataka.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/karnataka.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_applogo.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/applogo.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_send_svgrepo_com.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/send_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_addbox.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/addbox.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_meetstranger.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_meetstranger.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_setting.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_twitter.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/twitter.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_opening.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/opening.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_arrow_back.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/arrow_back.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/xml_backup_rules.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_8.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_8.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_main.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_jharkand.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/jharkand.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_chat_item.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_minigames.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_minigames.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_uttrakand.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/uttrakand.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_facebook.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_message.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/message.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_baseline_approval_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/baseline_approval_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_curveshape.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/curveshape.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_fragment_map.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_curver_without_line.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/curver_without_line.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_14.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_14.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_chatbot1.jpeg.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/chatbot1.jpeg"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_splash_screen.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/splash_screen.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_baseline_support_agent_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/baseline_support_agent_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_opening_page.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_opening_page.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_haryana.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/haryana.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_chatbotimage.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/chatbotimage.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_main_activity_background.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/main_activity_background.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_botimage.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/botimage.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_profile_.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_profile_.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_plan_trip.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_plan_trip.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_plantripmap_img.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/plantripmap_img.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_green_grad.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/green_grad.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_rounded_corner_right.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/rounded_corner_right.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_back.jpeg.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/back.jpeg"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_google.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/google.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_send_button.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/send_button.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/font_lobster.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/font/lobster.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_explore_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/explore_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_explorerpage.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_explorerpage.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_chat_bot_kt.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_chat_bot_kt.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_loginpage.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_loginpage.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_homebuttonlayout.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/homebuttonlayout.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_3.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_3.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_4.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_4.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_splash.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_plantrip_img.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/plantrip_img.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_ic_baseline_send_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_nav_item_background.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/nav_item_background.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_login_page.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/login_page.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_arrow_forward_button.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/arrow_forward_button.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_11.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_11.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_curve.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/curve.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_blacktextview.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/blacktextview.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_register.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_minig.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/minig.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_himachal_pradesh.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/himachal_pradesh.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_andhrapradesh1.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/andhrapradesh1.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_baseline_person_pin_circle_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/baseline_person_pin_circle_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_baseline_search_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_activity_homepage.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_homepage.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_round_button.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/round_button.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_homeedittext.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/homeedittext.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_setting.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/setting.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_5.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_5.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_adduser.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/adduser.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_2.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_2.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_bot_chat.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/bot_chat.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_meghalaya.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/meghalaya.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_send.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/send.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/anim_slide_in_right.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_app_logo.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/app_logo.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_chatbot.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/chatbot.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_10.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_10.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_leh.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/leh.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_curve_edit.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/curve_edit.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_chatbg.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/chatbg.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_arunachalpradesh.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/arunachalpradesh.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_9.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_9.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_user_chat.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/user_chat.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_user.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/user.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/layout_each_item.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/each_item.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_starting_background.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/starting_background.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_homepage_linear_layout.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/homepage_linear_layout.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_6.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_6.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_botlogo.jpg.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/botlogo.jpg"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/menu_navigation_buttons.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/menu/navigation_buttons.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_code.jpeg.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/code.jpeg"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_kerala.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/kerala.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_20.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_20.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_img_13.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/img_13.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/navigation_nav_graph.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/drawable_goa.png.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/drawable/goa.png"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/navigation_nav_graph2.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/anim_slide_out_left.xml.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bharatyatrisathi.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

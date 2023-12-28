@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_setting.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/user_chat.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/user_chat.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_splash.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_register.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_loginpage.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_loginpage.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_chat_bot_kt.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_chat_bot_kt.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_bot_chat.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_bot_chat.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/fragment_map.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_meetstranger.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_meetstranger.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/bot_chat.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/bot_chat.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_plan_trip.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_plan_trip.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_main.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/each_item.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/each_item.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_explorerpage.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_explorerpage.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_profile_.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_profile_.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_images.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_images.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_homepage.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_homepage.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_minigames.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_minigames.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/chat_item.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.example.bharatyatrisathi.app-mergeDebugResources-59:/layout/activity_opening_page.xml",
+        "source": "com.example.bharatyatrisathi.app-main-62:/layout/activity_opening_page.xml"
+    }
+]

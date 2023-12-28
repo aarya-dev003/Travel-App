@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">366295676845-hkhar1t7lekpj8gtih9onnch99dpeds2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">366295676845</string>
+    <string name="google_api_key" translatable="false">AIzaSyBxkbdcqh8pMrqGbgvuWP3giR70p1YVoqI</string>
+    <string name="google_app_id" translatable="false">1:366295676845:android:886829f446a32fe451d324</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBxkbdcqh8pMrqGbgvuWP3giR70p1YVoqI</string>
+    <string name="google_storage_bucket" translatable="false">bharat-yatri-sathi--test.appspot.com</string>
+    <string name="project_id" translatable="false">bharat-yatri-sathi--test</string>
+</resources>

@@ -1,0 +1,3 @@
+com.example.bharatyatrisathi.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

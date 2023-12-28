@@ -1,0 +1,6 @@
+com.example.bharatyatrisathi.test.app-annotation-experimental-1.3.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\516e2ab3711ad46ea23478613b2cbc9c\transformed\annotation-experimental-1.3.0\res
+com.example.bharatyatrisathi.test.app-core-1.5.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\aba8c6bef17a134ef022d6e329245dd3\transformed\core-1.5.0\res
+com.example.bharatyatrisathi.test.app-androidTest-2 D:\Android Development\BYSGitProject\app\build\generated\res\resValues\androidTest\debug
+com.example.bharatyatrisathi.test.app-mergeDebugAndroidTestResources-3 D:\Android Development\BYSGitProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.bharatyatrisathi.test.app-mergeDebugAndroidTestResources-4 D:\Android Development\BYSGitProject\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.bharatyatrisathi.test.app-merged_res-5 D:\Android Development\BYSGitProject\app\build\intermediates\merged_res\debugAndroidTest

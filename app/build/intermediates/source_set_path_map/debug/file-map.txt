@@ -1,0 +1,63 @@
+com.example.bharatyatrisathi.app-drawerlayout-1.1.1-0 C:\Users\aarya\.gradle\caches\transforms-3\087c404c99c34ace81d7ae74b131750f\transformed\drawerlayout-1.1.1\res
+com.example.bharatyatrisathi.app-constraintlayout-2.1.4-1 C:\Users\aarya\.gradle\caches\transforms-3\0f2ef8c327a0e656631feedff4306c5f\transformed\constraintlayout-2.1.4\res
+com.example.bharatyatrisathi.app-firebase-messaging-23.3.1-2 C:\Users\aarya\.gradle\caches\transforms-3\15fd9054129cd5a7ac37d7843d2f8e9d\transformed\firebase-messaging-23.3.1\res
+com.example.bharatyatrisathi.app-lifecycle-viewmodel-ktx-2.6.2-3 C:\Users\aarya\.gradle\caches\transforms-3\26011c7b37be68bfe6863917ec4c6288\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.bharatyatrisathi.app-cardview-1.0.0-4 C:\Users\aarya\.gradle\caches\transforms-3\285363591b6da84f864f5882e894e39d\transformed\cardview-1.0.0\res
+com.example.bharatyatrisathi.app-lifecycle-runtime-2.6.2-5 C:\Users\aarya\.gradle\caches\transforms-3\30b309454e5948f2300736ed1b59d2fd\transformed\lifecycle-runtime-2.6.2\res
+com.example.bharatyatrisathi.app-navigation-runtime-2.7.5-6 C:\Users\aarya\.gradle\caches\transforms-3\408631d37dd7034dfc58a7560401aff7\transformed\navigation-runtime-2.7.5\res
+com.example.bharatyatrisathi.app-firebase-common-20.4.2-7 C:\Users\aarya\.gradle\caches\transforms-3\4d07ff6b782b4523ebd25311b9eede2c\transformed\firebase-common-20.4.2\res
+com.example.bharatyatrisathi.app-play-services-maps-18.2.0-8 C:\Users\aarya\.gradle\caches\transforms-3\4d2cde515869444ae6a086baf007cb16\transformed\play-services-maps-18.2.0\res
+com.example.bharatyatrisathi.app-lifecycle-livedata-ktx-2.6.2-9 C:\Users\aarya\.gradle\caches\transforms-3\506b0174f87dc050f867abeb6257e9bf\transformed\lifecycle-livedata-ktx-2.6.2\res
+com.example.bharatyatrisathi.app-firebase-inappmessaging-display-20.4.0-10 C:\Users\aarya\.gradle\caches\transforms-3\520b2cd7e2aba26c628bad0916a08cf2\transformed\firebase-inappmessaging-display-20.4.0\res
+com.example.bharatyatrisathi.app-lifecycle-runtime-ktx-2.6.2-11 C:\Users\aarya\.gradle\caches\transforms-3\5281352548b5d867b5fe8c58eb986cf5\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.bharatyatrisathi.app-emoji2-1.2.0-12 C:\Users\aarya\.gradle\caches\transforms-3\533f57cd214f613c49bbba971c544812\transformed\emoji2-1.2.0\res
+com.example.bharatyatrisathi.app-browser-1.4.0-13 C:\Users\aarya\.gradle\caches\transforms-3\5d8c58ec5e02b090b298c19682a703f7\transformed\browser-1.4.0\res
+com.example.bharatyatrisathi.app-fragment-1.6.2-14 C:\Users\aarya\.gradle\caches\transforms-3\6493957e0af976efba44cd402926d646\transformed\fragment-1.6.2\res
+com.example.bharatyatrisathi.app-play-services-basement-18.2.0-15 C:\Users\aarya\.gradle\caches\transforms-3\6c99ca69e1e0277f55d81dab9681f2a1\transformed\play-services-basement-18.2.0\res
+com.example.bharatyatrisathi.app-navigation-runtime-ktx-2.7.5-16 C:\Users\aarya\.gradle\caches\transforms-3\6e1b7e52d347e3c624f4159322df7561\transformed\navigation-runtime-ktx-2.7.5\res
+com.example.bharatyatrisathi.app-appcompat-1.6.1-17 C:\Users\aarya\.gradle\caches\transforms-3\6f9472a6cff04da830c5ffa9dd581856\transformed\appcompat-1.6.1\res
+com.example.bharatyatrisathi.app-media-1.0.0-18 C:\Users\aarya\.gradle\caches\transforms-3\7c5b9c5cdda4efe2c3c1adaaf12fc1a1\transformed\media-1.0.0\res
+com.example.bharatyatrisathi.app-viewpager2-1.0.0-19 C:\Users\aarya\.gradle\caches\transforms-3\81480b7931e1d32616e171a6f52ac2ba\transformed\viewpager2-1.0.0\res
+com.example.bharatyatrisathi.app-fragment-ktx-1.6.2-20 C:\Users\aarya\.gradle\caches\transforms-3\842139142cad3acf68c625472e197b2e\transformed\fragment-ktx-1.6.2\res
+com.example.bharatyatrisathi.app-lifecycle-viewmodel-savedstate-2.6.2-21 C:\Users\aarya\.gradle\caches\transforms-3\845ee5d80d4d1e007c1b25878893deb2\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.bharatyatrisathi.app-startup-runtime-1.1.1-22 C:\Users\aarya\.gradle\caches\transforms-3\854a5ff47e9535c6bbd1001856d56421\transformed\startup-runtime-1.1.1\res
+com.example.bharatyatrisathi.app-core-ktx-1.9.0-23 C:\Users\aarya\.gradle\caches\transforms-3\8c88bb9f6cc571169365f6c65f6f974d\transformed\core-ktx-1.9.0\res
+com.example.bharatyatrisathi.app-savedstate-ktx-1.2.1-24 C:\Users\aarya\.gradle\caches\transforms-3\9cf43a34aa6c1dfe7574cf68b8edcee7\transformed\savedstate-ktx-1.2.1\res
+com.example.bharatyatrisathi.app-play-services-base-18.1.0-25 C:\Users\aarya\.gradle\caches\transforms-3\9f53aad241b16f87e3b790d437e85255\transformed\play-services-base-18.1.0\res
+com.example.bharatyatrisathi.app-lifecycle-livedata-2.6.2-26 C:\Users\aarya\.gradle\caches\transforms-3\9f7fd68fb5ba6eedf10ff9cfe49c59df\transformed\lifecycle-livedata-2.6.2\res
+com.example.bharatyatrisathi.app-navigation-fragment-ktx-2.7.5-27 C:\Users\aarya\.gradle\caches\transforms-3\a5eba12b6b2a711d4bbb07abf714cb2d\transformed\navigation-fragment-ktx-2.7.5\res
+com.example.bharatyatrisathi.app-circleimageview-3.1.0-28 C:\Users\aarya\.gradle\caches\transforms-3\a7cae82e5df487efc051c8ec1437b09c\transformed\circleimageview-3.1.0\res
+com.example.bharatyatrisathi.app-lifecycle-viewmodel-2.6.2-29 C:\Users\aarya\.gradle\caches\transforms-3\ab0436cec46f4d7acc23a6d3b7f8af95\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.bharatyatrisathi.app-profileinstaller-1.3.0-30 C:\Users\aarya\.gradle\caches\transforms-3\ad410d2c0e0f541f81b665cd375c562f\transformed\profileinstaller-1.3.0\res
+com.example.bharatyatrisathi.app-glide-4.11.0-31 C:\Users\aarya\.gradle\caches\transforms-3\ad7d42057d80c0bfc1bd30e1c4baae15\transformed\glide-4.11.0\res
+com.example.bharatyatrisathi.app-appcompat-resources-1.6.1-32 C:\Users\aarya\.gradle\caches\transforms-3\aecafe4982cfe9f65842e8ef50c142bd\transformed\appcompat-resources-1.6.1\res
+com.example.bharatyatrisathi.app-core-1.9.0-33 C:\Users\aarya\.gradle\caches\transforms-3\b5e650b14e0eebdf1b086b599ce0e873\transformed\core-1.9.0\res
+com.example.bharatyatrisathi.app-navigation-common-2.7.5-34 C:\Users\aarya\.gradle\caches\transforms-3\be7343fb16d16a10b086eb9ed21b7732\transformed\navigation-common-2.7.5\res
+com.example.bharatyatrisathi.app-recyclerview-1.1.0-35 C:\Users\aarya\.gradle\caches\transforms-3\bfd2c706abe78664ba641faa822817f7\transformed\recyclerview-1.1.0\res
+com.example.bharatyatrisathi.app-emoji2-views-helper-1.2.0-36 C:\Users\aarya\.gradle\caches\transforms-3\c1c1b7cf36d0763dfc788ac38170137a\transformed\emoji2-views-helper-1.2.0\res
+com.example.bharatyatrisathi.app-navigation-ui-ktx-2.7.5-37 C:\Users\aarya\.gradle\caches\transforms-3\c1d7d770c0407bd903f2443643d34b8f\transformed\navigation-ui-ktx-2.7.5\res
+com.example.bharatyatrisathi.app-lifecycle-livedata-core-2.6.2-38 C:\Users\aarya\.gradle\caches\transforms-3\c68c7b8422d762eaab0f1285fefbc671\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.bharatyatrisathi.app-navigation-fragment-2.7.5-39 C:\Users\aarya\.gradle\caches\transforms-3\c9245e3521491ffebb32734138f06388\transformed\navigation-fragment-2.7.5\res
+com.example.bharatyatrisathi.app-navigation-ui-2.7.5-40 C:\Users\aarya\.gradle\caches\transforms-3\daa3aaa850c4fffef9c79f02d110ceb9\transformed\navigation-ui-2.7.5\res
+com.example.bharatyatrisathi.app-material-1.10.0-41 C:\Users\aarya\.gradle\caches\transforms-3\db137ae5cf1981441130530cc9db3b81\transformed\material-1.10.0\res
+com.example.bharatyatrisathi.app-activity-ktx-1.8.0-42 C:\Users\aarya\.gradle\caches\transforms-3\db9fc27caf1a1db827f93eb3b4cfdebf\transformed\activity-ktx-1.8.0\res
+com.example.bharatyatrisathi.app-core-runtime-2.2.0-43 C:\Users\aarya\.gradle\caches\transforms-3\dc73be4973e215591af37d22b06bc653\transformed\core-runtime-2.2.0\res
+com.example.bharatyatrisathi.app-savedstate-1.2.1-44 C:\Users\aarya\.gradle\caches\transforms-3\df36c36f0d6794d17e4526121c768f3e\transformed\savedstate-1.2.1\res
+com.example.bharatyatrisathi.app-coordinatorlayout-1.1.0-45 C:\Users\aarya\.gradle\caches\transforms-3\e0aa18d9e102ebde0be5424bddd76792\transformed\coordinatorlayout-1.1.0\res
+com.example.bharatyatrisathi.app-activity-1.8.0-46 C:\Users\aarya\.gradle\caches\transforms-3\e2cdfaf36c08339781006e2708985b9b\transformed\activity-1.8.0\res
+com.example.bharatyatrisathi.app-lifecycle-livedata-core-ktx-2.6.2-47 C:\Users\aarya\.gradle\caches\transforms-3\e2ced0a47696dd89e426369f66893c60\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.bharatyatrisathi.app-slidingpanelayout-1.2.0-48 C:\Users\aarya\.gradle\caches\transforms-3\e49973057e6ccb872f6194e843302b82\transformed\slidingpanelayout-1.2.0\res
+com.example.bharatyatrisathi.app-lifecycle-process-2.6.2-49 C:\Users\aarya\.gradle\caches\transforms-3\e95716a30c29a02cea321ab9f3a67ee2\transformed\lifecycle-process-2.6.2\res
+com.example.bharatyatrisathi.app-window-1.0.0-50 C:\Users\aarya\.gradle\caches\transforms-3\eee14e3da16909cb2311b34713f1a2cc\transformed\window-1.0.0\res
+com.example.bharatyatrisathi.app-transition-1.4.1-51 C:\Users\aarya\.gradle\caches\transforms-3\ef94b659baf6f4ae3a694dca839b2998\transformed\transition-1.4.1\res
+com.example.bharatyatrisathi.app-navigation-common-ktx-2.7.5-52 C:\Users\aarya\.gradle\caches\transforms-3\f39e218f9f3efabce37409e7bdd73080\transformed\navigation-common-ktx-2.7.5\res
+com.example.bharatyatrisathi.app-annotation-experimental-1.3.0-53 C:\Users\aarya\.gradle\caches\transforms-3\f458a2dc4aca9550ca5c4ea057eaa1c6\transformed\annotation-experimental-1.3.0\res
+com.example.bharatyatrisathi.app-play-services-auth-20.7.0-54 C:\Users\aarya\.gradle\caches\transforms-3\f6d827530a2838ceaafd94973f1a750f\transformed\play-services-auth-20.7.0\res
+com.example.bharatyatrisathi.app-pngs-55 D:\Android Development\BYSGitProject\app\build\generated\res\pngs\debug
+com.example.bharatyatrisathi.app-res-56 D:\Android Development\BYSGitProject\app\build\generated\res\processDebugGoogleServices
+com.example.bharatyatrisathi.app-resValues-57 D:\Android Development\BYSGitProject\app\build\generated\res\resValues\debug
+com.example.bharatyatrisathi.app-packageDebugResources-58 D:\Android Development\BYSGitProject\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.bharatyatrisathi.app-packageDebugResources-59 D:\Android Development\BYSGitProject\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.bharatyatrisathi.app-merged_res-60 D:\Android Development\BYSGitProject\app\build\intermediates\merged_res\debug
+com.example.bharatyatrisathi.app-debug-61 D:\Android Development\BYSGitProject\app\src\debug\res
+com.example.bharatyatrisathi.app-main-62 D:\Android Development\BYSGitProject\app\src\main\res
